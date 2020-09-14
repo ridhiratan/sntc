@@ -1,0 +1,6 @@
+in second question:-
+Ways to prevent user from gaining super-user access:
+1. difficult password, using different characters and alphabets
+2. password known to a limited number of users
+3. Different passwords on different systems.
+4. Keep regular monitor and auditing over the system.
